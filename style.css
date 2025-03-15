@@ -25,3 +25,29 @@ font-weight: 900;
 text-align: center;
 padding-bottom:50px;
 }
+/* hedar closed */
+
+    
+
+.main,h1{
+    color: #FF0000;
+  font-size: 88px;
+    text-align: center;
+    padding-bottom: 35px;
+}
+.main,h5{
+    font-size: 25px;
+    text-align: center;
+}
+.main,h4{
+color: black;
+font-size: 45px;
+margin-top: 30px;
+text-align: center;
+}
+.main img{
+    width: 802.9px;
+height: 500px;
+padding-top: 40px;
+
+}

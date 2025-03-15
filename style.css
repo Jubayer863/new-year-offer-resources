@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.hedar-seson{
+width: 1320px;
+height: 600px;
+background-image: url('../new-year-offer-resources/images/Banner\ Image.png');
+border-radius:8px;
+}
+section .happy{
+    text-align: center;
+  color: white;
+  font-size: 25px;
+  padding-top:235px;
+}
+   
+
+.hedar-seson .new-year{
+color:rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+text-align: center;
+padding-bottom:50px;
+}
